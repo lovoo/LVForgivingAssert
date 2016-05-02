@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LVForgivingAssert_Example', :exclusive => true do
+  
+end
+
+target 'LVForgivingAssert_Tests', :exclusive => true do
+  pod 'LVForgivingAssert', :path => '../'
+
+  
+end

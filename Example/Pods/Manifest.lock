@@ -1,0 +1,14 @@
+PODS:
+  - LVForgivingAssert (0.1.0)
+
+DEPENDENCIES:
+  - LVForgivingAssert (from `../`)
+
+EXTERNAL SOURCES:
+  LVForgivingAssert:
+    :path: ../
+
+SPEC CHECKSUMS:
+  LVForgivingAssert: 2d88aac2e64b297fa3b2cde4f5ff981f51a629b8
+
+COCOAPODS: 0.39.0

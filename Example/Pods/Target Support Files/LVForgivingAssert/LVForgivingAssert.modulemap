@@ -1,0 +1,6 @@
+framework module LVForgivingAssert {
+  umbrella header "LVForgivingAssert-umbrella.h"
+
+  export *
+  module * { export * }
+}

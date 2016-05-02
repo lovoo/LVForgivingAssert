@@ -1,0 +1,3 @@
+language: objective-c
+script:
+- set -o pipefail && xcodebuild test -workspace Example/LVForgivingAssert.xcworkspace -scheme LVForgivingAssert-Example -sdk iphonesimulator | xcpretty
