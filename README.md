@@ -1,6 +1,6 @@
 # LVForgivingAssert
 
-[![CI Status](https://travis-ci.org/lovoo/LVForgivingAssert.svg?branch=master)](https://travis-ci.org/Lovoo/LVForgivingAssert/) [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+[![CI Status](https://travis-ci.org/lovoo/LVForgivingAssert.svg?branch=master)](https://travis-ci.org/lovoo/LVForgivingAssert) [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
 ## What does it do?
 
