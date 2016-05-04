@@ -1,6 +1,6 @@
 # LVForgivingAssert
 
-[![CI Status](https://travis-ci.org/Lovoo/LVForgivingAssert.svg)](https://travis-ci.org/Lovoo/LVForgivingAssert/)
+[![CI Status](https://travis-ci.org/lovoo/LVForgivingAssert.svg?branch=master)](https://travis-ci.org/Lovoo/LVForgivingAssert/)
 
 ## What does it do?
 
