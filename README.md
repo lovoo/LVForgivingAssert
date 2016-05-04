@@ -1,6 +1,6 @@
 # LVForgivingAssert
 
-[![CI Status](https://travis-ci.org/lovoo/LVForgivingAssert.svg?branch=master)](https://travis-ci.org/lovoo/LVForgivingAssert) [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+[![CI Status](https://travis-ci.org/lovoo/LVForgivingAssert.svg?branch=master)](https://travis-ci.org/lovoo/LVForgivingAssert) [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage) [![CocoaPods Compatible](https://img.shields.io/cocoapods/v/LVForgivingAssert.svg)](https://cocoapods.org/pods/LVForgivingAssert) [![CocoaPods](https://img.shields.io/cocoapods/l/LVForgivingAssert.svg?maxAge=2592000)](https://github.com/lovoo/LVForgivingAssert/blob/master/LICENSE)
 
 ## What does it do?
 
