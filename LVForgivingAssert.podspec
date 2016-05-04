@@ -5,7 +5,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "LVForgivingAssert"
-  s.version          = "0.1.0"
+  s.version          = "0.0.1"
   s.summary          = "LVForgivingAssert makes it possible to test the release behaviour of methods that are guarding parameters with NSAssert."
   s.description      = <<-DESC
 Using the makro LVIgnoreAssert(^{}) ignores all called NSAssert inside the block. Be sure to only use this while unit testing your app, not in production environment!
