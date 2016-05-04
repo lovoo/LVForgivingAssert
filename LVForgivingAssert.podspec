@@ -14,6 +14,7 @@ Using the makro LVIgnoreAssert(^{}) ignores all called NSAssert inside the block
   s.homepage         = "https://github.com/Lovoo/LVForgivingAssert"
   s.author           = { "Benjamin Herzog" => "mail@benchr.de" }
   s.source           = { :git => "https://github.com/lovoo/LVForgivingAssert.git", :tag => s.version.to_s }
+  s.license          = "BSD"
 
   s.ios.deployment_target = '7.0'
   s.tvos.deployment_target = '9.0'
